@@ -1,4 +1,4 @@
-package com.luixguxto.EEDA;
+package com.luixguxto.EDAA;
 
 import java.util.Random;
 
