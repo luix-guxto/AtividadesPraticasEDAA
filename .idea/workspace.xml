@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c919a17-8b2c-4807-ab38-aa3d7c9ed4c9" name="Changes" comment="" />
+    <list default="true" id="9c919a17-8b2c-4807-ab38-aa3d7c9ed4c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Exercicio01.executor": "Run",
+    "Application.Exercicio02.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -45,7 +49,7 @@
       <recent name="C:\Projetos\Simulated-CLI-Portfolio\AtividadePraticaEEDA\src\main\java\com\luixguxto\EDAA\Exercicio01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exercicio02">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio01" />
       <module name="AtividadePraticaEDAA" />
@@ -59,8 +63,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio02.Exercicio02" />
+      <module name="AtividadePraticaEDAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luixguxto.EDAA.Exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio02.main" />
+      <module name="AtividadePraticaEDAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luixguxto.EDAA.Exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio02" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Exercicio01" />
       </list>
     </recent_temporary>
