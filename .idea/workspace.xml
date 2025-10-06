@@ -37,19 +37,25 @@
   "keyToString": {
     "Application.Exercicio01.executor": "Run",
     "Application.Exercicio02.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainFinal.executor": "Debug",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projetos/Simulated-CLI-Portfolio/AtividadePraticaEEDA/src/main/java/com/luixguxto/EDAA/Exercicio03",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projetos\Simulated-CLI-Portfolio\AtividadePraticaEEDA\src\main\java\com\luixguxto\EDAA\Exercicio03" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projetos\Simulated-CLI-Portfolio\AtividadePraticaEEDA\src\main\java\com\luixguxto\EDAA\Exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio02">
+  <component name="RunManager" selected="Application.MainFinal">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio01" />
       <module name="AtividadePraticaEDAA" />
@@ -76,6 +82,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio03.Main" />
+      <module name="AtividadePraticaEDAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luixguxto.EDAA.Exercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio03.MainFinal" />
+      <module name="AtividadePraticaEDAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luixguxto.EDAA.Exercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luixguxto.EDAA.Exercicio02.main" />
       <module name="AtividadePraticaEDAA" />
@@ -91,6 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainFinal" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercicio02" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Exercicio01" />
@@ -107,5 +141,16 @@
       <updated>1756905516484</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/luixguxto/EDAA/Exercicio03/MainFinal.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
